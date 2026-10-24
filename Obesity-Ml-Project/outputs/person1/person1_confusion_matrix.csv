@@ -1,0 +1,7 @@
+,Predicted_Insufficient_Weight,Predicted_Normal_Weight,Predicted_Obesity_Type_I,Predicted_Obesity_Type_II,Predicted_Obesity_Type_III,Predicted_Overweight
+Actual_Insufficient_Weight,69,7,0,0,0,0
+Actual_Normal_Weight,4,99,0,0,0,3
+Actual_Obesity_Type_I,0,0,53,2,0,8
+Actual_Obesity_Type_II,0,0,6,44,7,0
+Actual_Obesity_Type_III,0,0,0,2,48,0
+Actual_Overweight,0,8,3,0,0,74
