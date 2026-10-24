@@ -2,7 +2,7 @@
 
 ## Project Title
 
-**Explainable Machine Learning for Obesity Level Classification: A Comparative Study of Anthropometric, Demographic, and Lifestyle Features in the Dhaka Obesity Dataset**
+**Obesity Level Detector: A Comparative Study of Anthropometric, Demographic, and Lifestyle Features in the Dhaka Obesity Dataset**
 
 ## 1. Overview
 
