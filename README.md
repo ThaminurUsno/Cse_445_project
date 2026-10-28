@@ -122,5 +122,3 @@ The sample skews young (median age around 24), so findings may not generalize to
 The data is observational and self-reported habits are associations, not causes.
 This project is for analysis and learning. It is not a medical tool and should not be used for diagnosis.
 License
-
-Add a license of your choice (for example MIT) and state the dataset's source and terms here.
